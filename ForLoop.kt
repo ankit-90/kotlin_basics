@@ -19,7 +19,8 @@ fun main(){
     for (i in 5..1){
         println(i)
     }
-
+    
+    //reverse loop with step
     for (i in 10 downTo  2   step 2){
         println(i)
     }
